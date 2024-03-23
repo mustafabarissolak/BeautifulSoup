@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://news.ycombinator.com/"
+url = ""
 
 my_news = {}
 
